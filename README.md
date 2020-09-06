@@ -1,4 +1,4 @@
-# _Tab Gallery_
+# _Counter_
 
 #### _Version 1_
 #### _Date 08/24/2020_
@@ -6,7 +6,7 @@
 
 ## Description
 
-_Tab Gallery shows pictures as album when user click pictures._
+_Counter increments and decrements value based on given bounderies._
 
 ## Getting Started
 
@@ -19,8 +19,8 @@ These instructions will get you a copy of the project up and running on your loc
 * npm install
 * npm run start
 ### Specifications
-* A user can see bigger picture from list of small pictures.
-* ![min-width:620px](tab-gallery.png);
+A user can increment and decrement value based on given bounderies.
+![min-width:620px](counter.png);
 ## Technologies Used
 
 _HTML, CSS, JavaScript, DOM Elements and Methods, IDE Atom_
