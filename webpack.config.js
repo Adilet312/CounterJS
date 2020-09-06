@@ -5,7 +5,7 @@ const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
 
 module.exports = {
-  entry: './src/counter2.js',
+  entry: './src/counter.js',
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist')
